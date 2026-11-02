@@ -1,0 +1,8 @@
+yt-dlp
+pydub
+audioop-lts
+imageio-ffmpeg
+faster-whisper
+click
+rich
+mcp

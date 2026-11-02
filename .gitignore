@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+output/
+*.mp3
+*.mp4
+*.webm
+*.vtt
+*.part
+cookies.txt
+.playlist_archive.txt
+.DS_Store
+Thumbs.db
